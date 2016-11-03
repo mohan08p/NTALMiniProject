@@ -8,7 +8,7 @@ This project is based on cracking WPA/WPA2 networks which use pre-shared keys. M
 
 In this project, we demonstrate dictionary attack using _aircrack-ng_ in Kali Linux. We use a large list of commonly used passwords and tools like _crunch_ and _rsmangler_ to generate custom lists. The attack is based on the four-way handshake between clients and access points. Once we capture the four-way handshake, the password can be cracked offline using _aircrack-ng_.
 
-##### Project members
+### Project members
 - Rohit Burman (07) 
 - Deepesh bathija (03) 
 - Rohit Bijani (06)
